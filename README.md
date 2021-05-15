@@ -25,5 +25,5 @@
 - Technical
    - React.js, Node.js, WebSocket, Docker, MongoDB, MySQL, Ardunio, Maven, Spring
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-xue-b64619186/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-xue-b64619186)
 </details>
