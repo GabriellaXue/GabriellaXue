@@ -5,7 +5,7 @@
 
 ### Experience
 - Product Engineering Intern at [**Marqeta**](https://www.marqeta.com/) (upcoming 2021)
-- [IoT System Research Group](https://cs.illinois.edu/about/people/faculty/caesar) Lead Developer (2020 - present) 
+- [**IoT System Research Group**](https://cs.illinois.edu/about/people/faculty/caesar) Lead Developer (2020 - present) 
 - Data Structures Course Assistant at [**UIUC**](https://courses.engr.illinois.edu/cs225/sp2021/) (2020 - present)
 - Intro to Computer Science Course Developer && Course Assistant at [**UIUC**](https://cs125.cs.illinois.edu/)(2019 - 2020)
 
@@ -16,6 +16,9 @@
 - James Scholar (2018 - 2021)
 - Dean’s List (2018 - 2021)
 
+<details>
+   <summary>More</summary>
+   
 ### Skills
 - Programming
    - Python, C++, C, Java, JavaScript, Markdown
@@ -23,3 +26,4 @@
    - React.js, Node.js, WebSocket, Docker, MongoDB, MySQL, Ardunio, Maven, Spring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-xue-b64619186/)
+</details>
