@@ -1,6 +1,6 @@
 ### Education
 - Senior in Computer Science at **University of Illinois at Urbana-Champaign** (2018 - 2022)
-   - GPA: 3.92/4.0
+   - GPA: 3.93/4.0
    - Relevant Courses: Data Structures, Computer Architecture, Database Systems, Systems Programming, IoT
 
 ### Experience
@@ -21,9 +21,9 @@
    
 ### Skills
 - Programming
-   - Python, C++, C, Java, JavaScript, Markdown
+   - Python, C++, C, Java, JavaScript, Markdown, SQL
 - Technical
-   - React.js, Node.js, WebSocket, Docker, MongoDB, MySQL, Ardunio, Maven, Spring
+   - React.js, Node.js, WebSocket, Docker, MongoDB, MySQL, Ardunio, Maven, Spring, React Native
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-xue-b64619186)
 </details>
