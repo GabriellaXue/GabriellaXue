@@ -4,7 +4,7 @@
    - Relevant Courses: Data Structures, Computer Architecture, Database Systems, Systems Programming, IoT
 
 ### Experience
-- Product Engineering Intern at [**Marqeta**](https://www.marqeta.com/) (upcoming 2021)
+- Software Engineering Intern at [**Marqeta**](https://www.marqeta.com/) digital banking team (Summer 2021)
 - [**IoT System Research Group**](https://cs.illinois.edu/about/people/faculty/caesar) Lead Developer (2020 - present) 
 - Data Structures Course Assistant at [**UIUC**](https://courses.engr.illinois.edu/cs225/sp2021/) (2020 - present)
 - Intro to Computer Science Course Developer && Course Assistant at [**UIUC**](https://cs125.cs.illinois.edu/)(2019 - 2020)
