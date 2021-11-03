@@ -1,7 +1,8 @@
 ### Education
-- Senior in Computer Science at **University of Illinois at Urbana-Champaign** (2018 - 2022)
+- Bachelor in Computer Science at **University of Illinois at Urbana-Champaign** (2018 - 2022)
    - GPA: 3.93/4.0
    - Relevant Courses: Data Structures, Computer Architecture, Database Systems, Systems Programming, Algorithm(currently taking), Web Programming(currently taking), Computer Security(currently taking), Communication Network(currently taking)
+- Master in Computer Science at **University of Illinois at Urbana-Champaign** (2022 - 2023)
 
 ### Experience
 - Software Engineering Intern at [**Marqeta**](https://www.marqeta.com/) digital banking team (Summer 2021)
