@@ -21,9 +21,9 @@
    
 ### Skills
 - Programming
-   - Python, C++, C, Java, JavaScript, Markdown, SQL
+   - Python, C++, Java, C, JavaScript, SQL, Markdown
 - Technical
-   - React.js, Node.js, WebSocket, Docker, MongoDB, MySQL, Ardunio, Maven, Spring, React Native
+   - Rest APIs, React.js, Node.js, WebSocket, Docker, MongoDB, MySQL, Maven, Spring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-xue-b64619186)
 </details>
