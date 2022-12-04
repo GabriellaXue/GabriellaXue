@@ -12,6 +12,17 @@
 - Data Structures Course Assistant at [**UIUC**](https://courses.engr.illinois.edu/cs225/sp2021/) (2020 - 2021)
 - Intro to Computer Science Course Developer && Course Assistant at [**UIUC**](https://cs125.cs.illinois.edu/)(2019 - 2020)
 
+### Hobbies
+- Music (piano and guitar)
+    - [pure instrument](https://github.com/GabriellaXue/GabriellaXue/blob/main/Summer.m4a)
+    - [with vocal](https://github.com/GabriellaXue/GabriellaXue/blob/main/Perfect-Ed%20Sheran.m4a)
+    - Impromptu Accompaniment
+- Art
+  - [painting1-bw](https://github.com/GabriellaXue/GabriellaXue/blob/main/IMG_5868.jpg)
+  - [painting2-color](https://github.com/GabriellaXue/GabriellaXue/blob/main/IMG_5870.jpg)
+  - [painting3-meme](https://github.com/GabriellaXue/GabriellaXue/blob/main/IMG_5869.jpg)
+- Sports(ice skating, volleyball)
+
 <details>
    <summary>More</summary>
    
