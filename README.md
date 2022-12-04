@@ -12,7 +12,7 @@
 - Data Structures Course Assistant at [**UIUC**](https://courses.engr.illinois.edu/cs225/sp2021/) (2020 - 2021)
 - Intro to Computer Science Course Developer && Course Assistant at [**UIUC**](https://cs125.cs.illinois.edu/)(2019 - 2020)
 
-### Hobbies (demos in section below [Music and Art Demos](###-Music-and-Art-Demos)
+### Hobbies (demos in section below [Music and Art Demos](#music-and-art-demos))
 - Music (piano and guitar, impromptu accompaniment)
 - Art (oil painting, sketching)
 - Sports(ice skating, volleyball)
