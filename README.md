@@ -16,10 +16,7 @@
 - Music (piano and guitar, impromptu accompaniment)
 - Art (oil painting, sketching)
 - Sports(ice skating, volleyball)
-
-<details>
-   <summary>More</summary>
-   
+  
 ### Skills
 - Programming
    - Python, C++, Java, C, JavaScript, SQL, Markdown, TypeScript
